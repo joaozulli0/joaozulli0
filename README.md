@@ -1,38 +1,46 @@
 # Olá, seja bem-vindo ao meu GitHub! 👋
 
-## Sobre Mim 🧑‍💻
+# Perfil de Desenvolvedor
 
-Meu nome é João Marcelo Zulli, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Mococa. Estou extremamente entusiasmado em compartilhar meu aprendizado e projetos com a comunidade GitHub.
+## Olá, sou [Seu Nome]
 
-## Minhas Habilidades e Interesses 🚀
+Bem-vindo ao meu espaço no GitHub! Sou um entusiasta da programação apaixonado por criar soluções inovadoras e explorar novas tecnologias. Aqui está um pouco sobre minhas principais habilidades:
 
-Atualmente, estou focado em aprimorar minhas habilidades em várias tecnologias de desenvolvimento web e mobile. Algumas das linguagens e frameworks com as quais estou trabalhando incluem:
+### Linguagens de Programação:
 
-- Java ☕
-- PHP 🐘
-- CSS 🎨
-- Dart 🎯
-- Kotlin 🆕
-- Angular 🅰️
-- HTML5 🌐
+- **Java:** Experiência sólida em desenvolvimento Java, com foco em construção de aplicativos robustos e escaláveis.
 
-Estou ansioso para aprender mais sobre essas tecnologias e continuar a me aprofundar em seus recursos para desenvolver aplicativos e projetos inovadores.
+- **Spring Boot:** Especializado no uso do Spring Boot para criar aplicações Java eficientes e de alto desempenho.
 
-## Projetos 📂
+- **PHP:** Proficiente em PHP para desenvolvimento web dinâmico e criação de aplicativos eficazes.
 
-No meu GitHub, você encontrará diversos projetos em que estou trabalhando ou que já concluí. Fique à vontade para explorar os repositórios e experimentar os códigos. Estou sempre aberto a feedbacks e sugestões para melhorar meus projetos.
+- **C:** Conhecimento sólido em C, contribuindo para desenvolvimento de software de baixo nível.
 
-## Contato 📧
+### Desenvolvimento Web:
 
-Caso queira entrar em contato comigo ou colaborar em algum projeto, sinta-se à vontade para enviar uma mensagem por meio do meu e-mail joaozulliprofissional@gmail.com.
+- **HTML/CSS:** Expertise em HTML e CSS para criar interfaces web atraentes e responsivas.
 
-## Objetivos 🎯
+- **Bootstrap:** Habilidade avançada no uso do Bootstrap para agilizar o desenvolvimento frontend e melhorar a experiência do usuário.
 
-Meus objetivos são me tornar um desenvolvedor altamente qualificado, contribuir para projetos de código aberto e criar soluções tecnológicas que possam impactar positivamente a sociedade.
+### Desenvolvimento Android:
 
-Agradeço por visitar meu perfil no GitHub e espero que encontre algo útil e interessante por aqui!
+- **Desenvolvimento Android:** Paixão por criar aplicativos Android inovadores, proporcionando experiências excepcionais aos usuários.
 
-Siga-me para acompanhar meu progresso e ficar por dentro das novidades.
+### Segurança Web:
+
+- **Web Hacking:** Entusiasta de segurança web, com conhecimentos em práticas de ethical hacking para garantir aplicações seguras.
+
+### Projetos Destacados:
+
+- **[Nome do Projeto 1]:** Descrição breve do projeto e seu destaque, indicando seu papel e contribuições.
+
+- **[Nome do Projeto 2]:** Breve descrição e destaque, enfatizando suas habilidades específicas.
+
+### Como Colaborar:
+
+Fique à vontade para explorar meus repositórios e contribuir para o desenvolvimento colaborativo. Se tiver alguma pergunta ou sugestão, sinta-se à vontade para entrar em contato.
+
+Agradeço por visitar meu perfil e espero que encontre algo interessante por aqui!
 
 **Happy coding!** 🚀
 
